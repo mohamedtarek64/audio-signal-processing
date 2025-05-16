@@ -1,0 +1,22 @@
+# 🎧 Audio Signal Processing - Python Project
+
+This project demonstrates basic audio signal processing using Python.  
+It includes WAV file input, filtering, and audio output generation.
+
+## 📁 Files Included
+- `eagle.wav`: Original input audio
+- `New_Filtered_Eagle.wav`: Filtered output
+- `New_Sound_With_BoostedBass.wav`: Enhanced output with bass boost
+- `Sound-Filtering.py`: Python script for processing the audio
+
+## 🛠 Technologies Used
+- Python 3.x
+- SciPy
+- NumPy
+- Matplotlib
+- Wave
+
+## 🚀 How to Run
+
+```bash
+python Sound-Filtering.py
